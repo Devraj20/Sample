@@ -1,1 +1,1 @@
-print("trash")
+print("trash can")
